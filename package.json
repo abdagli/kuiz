@@ -1,5 +1,11 @@
 {
   "name": "kuiz",
   "private": true,
-  "dependencies": {}
+  "version": "1.0.0",
+  "repository": "https://github.com/abdagli/kuiz.git",
+  "author": "Abdullah Dağlı <abdagli@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "materialize-css": "^1.0.0"
+  }
 }
